@@ -1,0 +1,4 @@
+Problem Statement — FreshSave (SDG 2: Zero Hunger + SDG 12: Responsible Consumption)
+Writing
+
+College canteens in campus food-service settings experience avoidable food surplus after meal periods because daily demand fluctuates and food inventory is not prioritized based on quantity, remaining safe holding time, and redistribution feasibility. Current approaches, such as manual stock tracking and general food donation platforms, may fail to provide real-time, item-level urgency ranking and explainable next-action recommendations. This matters because avoidable food waste consumes resources while edible surplus could help meet community food needs.
