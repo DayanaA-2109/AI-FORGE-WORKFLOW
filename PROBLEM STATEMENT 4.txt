@@ -1,0 +1,3 @@
+Problem statement (final version)
+
+Small farmers and community kitchens in Bihar lose perishable food between harvest and consumption because India’s food schemes mainly move grain, and fixed cold-storage infrastructure cannot redirect food once it starts spoiling. Current approaches fail because they are static: they store food but don’t decide, in real time, where fresh produce should go before it spoils. This matters because Bihar still has 42.9% child stunting, and fruits and vegetables lose 4.58–15.88% of production nationally.
