@@ -1,0 +1,90 @@
+
+FarmBridge AI is a decision-support tool for smallholder tomato farmers in Patna, Bihar. It helps them decide when, where, and how to sell their harvest before it spoils — and how to afford getting it there.
+
+The core idea
+Most price tools just show mandi rates. FarmBridge goes further: it combines spoilage risk + net market returns + shared transport + micro-credit into one practical recommendation.
+
+How it works — four layers
+1. Spoilage-Risk Layer
+Uses live weather, harvest timing, and reported tomato condition to estimate how fast the produce will deteriorate. Flags batches that need urgent action.
+
+2. Market Decision Engine
+Compares tomato prices across two markets and calculates net returns after transport cost and expected quality loss — not just the headline price.
+
+3. Group Harvest Rescue
+Farmers pool their small quantities into one shipment. This cuts per-farmer transport cost and makes cold transport viable for smallholders who couldn't afford it alone.
+
+4. Embedded Micro-Credit Estimate
+Calculates the funding gap for transport and shows a simulated short-term credit option. Real lending would need a verified partner and consent.
+
+The main innovation
+Group Harvest Rescue + Cold-Transport Financing. Instead of just telling farmers "Market A pays more," it helps them coordinate a shared shipment and figure out how to pay for it — solving the two biggest blockers at once.
+
+MVP scope (hackathon)
+One crop (tomato)
+
+One district (Patna)
+
+Two markets
+
+Weather-based spoilage indicator
+
+Two-market net-return calculator
+
+Group shipment cost comparison (main demo)
+
+Simulated credit estimate
+
+One recommendation screen with reasoning
+
+What makes it realistic
+The document is honest about limits — it labels simulated data as simulated, and flags figures (Bihar's SDG 2 score, ₹31,486 crore loss estimate) as unverified until checked against original sources.
+
+One-line pitch
+FarmBridge AI helps tomato farmers decide when and where to sell, combine harvests for affordable cold transport, and explore transport financing — before their produce loses value.
+
+Solution Explained
+FarmBridge AI is a decision-support tool for smallholder tomato farmers in Patna, Bihar. It helps them decide when, where, and how to sell their harvest before it spoils — and how to afford getting it there.
+
+The core idea
+Most price tools just show mandi rates. FarmBridge goes further: it combines spoilage risk + net market returns + shared transport + micro-credit into one practical recommendation.
+
+How it works — four layers
+1. Spoilage-Risk Layer
+Uses live weather, harvest timing, and reported tomato condition to estimate how fast the produce will deteriorate. Flags batches that need urgent action.
+
+2. Market Decision Engine
+Compares tomato prices across two markets and calculates net returns after transport cost and expected quality loss — not just the headline price.
+
+3. Group Harvest Rescue
+Farmers pool their small quantities into one shipment. This cuts per-farmer transport cost and makes cold transport viable for smallholders who couldn't afford it alone.
+
+4. Embedded Micro-Credit Estimate
+Calculates the funding gap for transport and shows a simulated short-term credit option. Real lending would need a verified partner and consent.
+
+The main innovation
+Group Harvest Rescue + Cold-Transport Financing. Instead of just telling farmers "Market A pays more," it helps them coordinate a shared shipment and figure out how to pay for it — solving the two biggest blockers at once.
+
+MVP scope (hackathon)
+One crop (tomato)
+
+One district (Patna)
+
+Two markets
+
+Weather-based spoilage indicator
+
+Two-market net-return calculator
+
+Group shipment cost comparison (main demo)
+
+Simulated credit estimate
+
+One recommendation screen with reasoning
+
+What makes it realistic
+The document is honest about limits — it labels simulated data as simulated, and flags figures (Bihar's SDG 2 score, ₹31,486 crore loss estimate) as unverified until checked against original sources.
+
+One-line pitch
+FarmBridge AI helps tomato farmers decide when and where to sell, combine harvests for affordable cold transport, and explore transport financing — before their produce loses value.
+
