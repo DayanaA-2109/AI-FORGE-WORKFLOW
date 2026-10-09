@@ -1,0 +1,47 @@
+Proposed Solution: SmartMandi AI — A Heat-Aware Market Decision Assistant for Smallholder Farmers
+
+SmartMandi AI is a decision-support system designed to help smallholder tomato and vegetable farmers in Bihar decide whether to sell their produce at the local mandi, transport it to another market, or hold it briefly when safe and economically reasonable.
+
+The system combines current mandi prices, local weather conditions, tomato condition, estimated transport costs, and spoilage urgency to recommend the most suitable selling option.
+
+How it works:
+
+Farmer Input: The farmer enters the crop type, quantity, location, harvest time, and condition of the produce.
+
+Weather and Market Data: The system collects available weather information and current mandi prices from sources such as data.gov.in.
+
+Market Comparison: It compares prices across selected mandis and estimates transport expenses and expected net earnings.
+
+Spoilage Urgency Assessment: It uses weather conditions and the farmer's reported produce condition to flag when selling may be more urgent.
+
+Smart Recommendation: The system suggests whether to sell locally, transport the produce to another mandi, or consider holding it briefly if conditions are suitable. Each recommendation includes a simple explanation.
+
+Key Features:
+
+Real-time or latest available mandi price comparison.
+
+Estimated net earnings after transport and other known costs.
+
+Heat and spoilage urgency alerts.
+
+Market selection based on expected returns and transportation feasibility.
+
+Simple, farmer-friendly interface.
+
+Explainable recommendations to support informed decisions.
+
+Technology Stack:
+
+Frontend: Streamlit
+
+Programming Language: Python
+
+Data Sources: data.gov.in mandi price data and available weather data
+
+Decision Engine: Rule-based calculations for market comparison and urgency assessment
+
+Expected Impact:
+
+SmartMandi AI aims to help farmers make more informed selling decisions, reduce avoidable post-harvest losses, improve market selection, and potentially increase the income they retain from selling their produce. Its effectiveness would need to be tested using real market data and farmer feedback.
+
+Innovation: Unlike a tool that only displays mandi prices, SmartMandi AI aims to combine market prices, transport costs, weather conditions, and spoilage urgency into one explainable selling recommendation. This proposed gap must be validated against existing services before claiming that the solution is unique.
